@@ -33,11 +33,10 @@ img {
 }
 
 img.profile-pic {
+	position: left
 	height: 30%;
 	width: 30%;
 	object-fit: cover;
-	left: 0px;
-	top: 0px;
 }
 
 .container {
